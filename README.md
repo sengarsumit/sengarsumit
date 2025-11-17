@@ -1,5 +1,5 @@
 # 💫 About Me:
-java and js developer <br>currently working as a tech support and product support engineer<br>learning cloud and devops<br>
+java and js developer<br>learning cloud and devops<br>
 
 
 # 💻 Tech Stack:
